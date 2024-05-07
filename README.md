@@ -1,0 +1,1 @@
+# data-platform-api-attendance-creates-rmq-kube
